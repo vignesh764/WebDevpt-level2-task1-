@@ -1,2 +1,2 @@
 # WebDevpt-level2-task1-
-webpage for responsive design
+webpage with usage of frontend frameworks
